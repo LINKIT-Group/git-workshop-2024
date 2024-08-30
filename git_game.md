@@ -4,6 +4,8 @@
 
 Inside of your workspace folder in docker 
 
+It is bad i changed same file in md2
+
 ```bash
 root@52038e4df7c6:[/workspace/
 ```
