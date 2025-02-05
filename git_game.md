@@ -2,9 +2,9 @@
 
 # Linkit Workshop 2024
 
-*this is the test md7*
+*this is the test md8*
 
-## Dura Data Bootcamp
+## Dura Data Bootcamp - test 2
 
 Inside of your workspace folder in docker 
 
