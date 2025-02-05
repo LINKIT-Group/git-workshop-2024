@@ -7,6 +7,7 @@ Inside of your workspace folder in docker
 
 It is bad i changed same file in md6
 
+I did again a change for Dura Bootcamp
 ```bash
 root@52038e4df7c6:[/workspace/
 ```
